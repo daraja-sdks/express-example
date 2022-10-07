@@ -1,2 +1,2 @@
-# express-example
-An example express app using the daraja.js library
+# Daraja.js express example
+This example demonstrates usage of the daraja.js library using express. It contains mutiple features such as how to create websocket connections and listening to callbacks from the Mpesa API. The example can be run on your local system if you have express installed or on stackblitz.
